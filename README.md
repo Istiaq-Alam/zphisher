@@ -166,6 +166,7 @@ $ zphisher
 </p>
 
 
+-----
 ### *Thanks to all contributors*:
 
 <table>
